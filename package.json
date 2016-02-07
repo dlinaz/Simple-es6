@@ -1,0 +1,23 @@
+{
+  "name": "simple-es6",
+  "version": "0.0.1",
+  "description": "Basic es6 examples",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dlinaz/Simple-es6.git"
+  },
+  "author": "dlinaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dlinaz/Simple-es6/issues"
+  },
+  "homepage": "https://github.com/dlinaz/Simple-es6#readme",
+  "dependencies": {
+    "babel-preset-es2015": "^6.3.13",
+    "babel-register": "^6.4.3"
+  }
+}
