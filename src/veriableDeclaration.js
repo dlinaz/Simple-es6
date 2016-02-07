@@ -1,6 +1,6 @@
 "use strict"
 
-// Let keyword: Limits variable to block scope
+// let: limits variable to block scope
 
 let x = 1;
 
@@ -10,3 +10,12 @@ if (true) {
 }
 
 console.log( "value of x outside block: ", x); // 1
+
+
+
+// const: creates immutable variables
+
+
+const myConstant = 'can not change';
+myConstant = 'can i udate?';
+
