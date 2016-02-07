@@ -1,3 +1,3 @@
 # Simple-es6
 
-Basic ES6 examples
+Simple examples to understand ES6 
