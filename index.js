@@ -1,1 +1,1 @@
-require("./src/veriableDeclaration.js")
+require("./src/variableDeclaration.js")
