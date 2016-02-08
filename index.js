@@ -1,1 +1,2 @@
-require("./src/variableDeclaration.js")
+require("./src/const.js")
+
